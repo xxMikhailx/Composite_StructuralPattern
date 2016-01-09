@@ -1,0 +1,93 @@
+28.12.2015 00:06:53,221 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:08:49,027 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:17:59,248 [main] DEBUG by.bsu.composite.actions.WordSwap - 33
+28.12.2015 00:17:59,803 [main] DEBUG by.bsu.composite.actions.WordSwap - 33
+28.12.2015 00:17:59,804 [main] DEBUG by.bsu.composite.actions.WordSwap - ListingLeaf
+28.12.2015 00:18:00,397 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:18:01,001 [main] DEBUG by.bsu.composite.actions.WordSwap - 18
+28.12.2015 00:18:53,202 [main] DEBUG by.bsu.composite.actions.WordSwap - 18
+28.12.2015 00:18:53,205 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:18:58,024 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:18:59,252 [main] DEBUG by.bsu.composite.actions.WordSwap - 31
+28.12.2015 00:19:11,712 [main] DEBUG by.bsu.composite.actions.WordSwap - 31
+28.12.2015 00:19:16,099 [main] DEBUG by.bsu.composite.actions.WordSwap - 31
+28.12.2015 00:19:20,440 [main] DEBUG by.bsu.composite.actions.WordSwap - 31
+28.12.2015 00:19:20,442 [main] DEBUG by.bsu.composite.actions.WordSwap - ListingLeaf
+28.12.2015 00:19:37,035 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:19:41,377 [main] DEBUG by.bsu.composite.actions.WordSwap - 16
+28.12.2015 00:19:47,093 [main] DEBUG by.bsu.composite.actions.WordSwap - 16
+28.12.2015 00:19:52,097 [main] DEBUG by.bsu.composite.actions.WordSwap - 16
+28.12.2015 00:20:41,012 [main] DEBUG by.bsu.composite.actions.WordSwap - 16
+28.12.2015 00:20:41,016 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:22:13,868 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,390 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,392 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,392 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:33:19,392 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 33
+28.12.2015 00:33:19,399 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:33:19,399 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 33
+28.12.2015 00:33:19,400 [main] DEBUG by.bsu.composite.actions.WordSwap - ListingLeaf
+28.12.2015 00:33:19,401 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,407 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:33:19,407 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 18
+28.12.2015 00:33:19,414 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:33:19,420 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 18
+28.12.2015 00:33:19,422 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,422 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,423 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,423 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:33:19,427 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,429 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:33:19,434 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,434 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:33:19,435 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,436 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:33:19,441 [main] DEBUG by.bsu.composite.actions.WordSwap - ListingLeaf
+28.12.2015 00:33:19,441 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,442 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,442 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:33:19,443 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,443 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:33:19,444 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,444 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:33:19,446 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:33:19,447 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:33:19,447 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,447 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:33:19,448 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,011 [main] DEBUG by.bsu.composite.actions.WordSwap - text size: 5
+28.12.2015 00:41:14,012 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,026 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,026 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:41:14,026 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 33
+28.12.2015 00:41:14,035 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:41:14,036 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 33
+28.12.2015 00:41:14,037 [main] DEBUG by.bsu.composite.actions.WordSwap - ListingLeaf
+28.12.2015 00:41:14,040 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,040 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:41:14,040 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 18
+28.12.2015 00:41:14,042 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 2
+28.12.2015 00:41:14,042 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 18
+28.12.2015 00:41:14,044 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,045 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,046 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,046 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:41:14,086 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,096 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:41:14,099 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,099 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:41:14,102 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,108 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 31
+28.12.2015 00:41:14,113 [main] DEBUG by.bsu.composite.actions.WordSwap - ListingLeaf
+28.12.2015 00:41:14,113 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,119 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,122 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:41:14,128 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,128 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:41:14,130 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,130 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:41:14,130 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4
+28.12.2015 00:41:14,131 [main] DEBUG by.bsu.composite.actions.WordSwap - sentence size: 16
+28.12.2015 00:41:14,131 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,132 [main] DEBUG by.bsu.composite.actions.WordSwap - Composite
+28.12.2015 00:41:14,132 [main] DEBUG by.bsu.composite.actions.WordSwap - paragraph size: 4

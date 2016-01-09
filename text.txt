@@ -1,0 +1,31 @@
+	Matcher - класс, который представляет строку, реализует механизм согласования (matching) с РВ и хранит результаты этого согласования (используя реализацию методов интерфейса MatchResult). Не имеет публичных конструкторов, поэтому для создания объекта этого класса нужно использовать метод matcher класса Pattern:
+
+##// будем искать URL
+String regexp = "^(https?:\\/\\/)?([\\da-z\\.-]+)\\.([a-z\\.]{2,6})([\\/\\w \\.-]*)*\\/?$";
+String url = "http://habrahabr.ru/post/260767/";
+
+Pattern pattern = Pattern.compile(regexp);
+Matcher matcher = pattern.matcher(url);/##
+
+	Но результатов у нас еще нет. Чтобы их получить нужно воспользоваться методом find. Можно использовать matches — этот метод вернет true только тогда, когда вся строка соответствует заданному РВ, в отличии от find, который пытается найти подстроку, которая удовлетворяет РВ. Для более детальной информации о результатах согласования можно использовать реализацию методов интерфейса MatchResult, например:
+
+##// IP адрес
+String regexp = "(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)";
+// для сравнения работы find() и matches()
+String goodIp = "192.168.0.3";
+String badIp = "192.168.0.3g";
+
+Pattern pattern = Pattern.compile(regexp);
+
+Matcher matcher = pattern.matcher(goodIp);
+// matches() - true, find() - true
+matcher = pattern.matcher(badIp);
+// matches() - false, find() - true
+
+// а теперь получим дополнительную информацию
+System.out.println(matcher.find() ?
+        "I found '"+matcher.group()+"' starting at index "+matcher.start()+" and ending at index "+matcher.end()+"." :
+        "I found nothing!");
+// I found the text '192.168.0.3' starting at index 0 and ending at index 11./##
+
+	Также можно начинать поиск с нужной позиции используя find(int start). Стоит отметить что существует еще один способ поиска — метод lookingAt. Он начинает проверку совпадений РВ с начала строки, но не требует полного соответствия, в отличии от matches. Класс предоставляет методы для замены текста в указанной строке:
